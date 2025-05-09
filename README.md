@@ -60,18 +60,4 @@ Implement DBSCAN to detect non-spherical clusters.
 
 Integrate time-series analysis for dynamic segmentation.
 
-## 🔍 Explore the Code
-Full implementation: Jupyter Notebook
 
-Dataset: data/raw/purchase_history.csv
-
-Key Enhancements:
-Structure: Broken into clear sections (Overview, Tools, Steps, Results).
-
-Technical Depth: Added specifics like k=4 and library names.
-
-Reproducibility: Linked to hypothetical notebook/dataset paths (update with your actual files).
-
-Visuals: Placeholder for images (replace with your plots).
-
-Call-to-Action: Encourages exploration of your code.
